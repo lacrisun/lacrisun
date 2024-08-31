@@ -12,6 +12,7 @@ At the moment, i have knowledge on many programming languages such as :
 - HTML
 - CSS
 - GDScript
+- C#
 
 I also have knowledge on Linux/Unix systems and basic networking.
 
