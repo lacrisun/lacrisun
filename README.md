@@ -1,10 +1,12 @@
-Hello, my name Gusti Panji Widodo (@lacrisun)! 👋
+Hello, my name Gusti Panji Widodo aka (@lacrisun)! 👋
 
 I'm an aspiring [software engineer](https://en.m.wikipedia.org/wiki/Software_engineering), [web developer](https://en.m.wikipedia.org/wiki/Web_developer), and [game developer](https://en.m.wikipedia.org/wiki/Video_game_developer).
 
 I'm still fairly new and trying to learn wherever i can. in my free time, i love to watch movies and learn new stuff everyday. my favorite food is [Indomie](https://en.m.wikipedia.org/wiki/Indomie)/Ramen noodles, i can eat anything as long as it isn't too sweet or too salty...
 
 I also have a broad taste of music, but i pretty much like [shoegaze](https://en.m.wikipedia.org/wiki/Shoegaze) and [indie rock music](https://en.m.wikipedia.org/wiki/Indie_Rock) in particular.
+
+Currently, i'm pursuing a Bachelor's degree in Informatics Engineering at [University of Riau](https://en.wikipedia.org/wiki/University_of_Riau)
 
 At the moment, i have knowledge on many programming languages such as :
 - Python
