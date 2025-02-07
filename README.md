@@ -1,14 +1,9 @@
 Hello, my name Gusti Panji Widodo aka (@lacrisun)! 👋
-
-I'm an aspiring [software engineer](https://en.m.wikipedia.org/wiki/Software_engineering), [web developer](https://en.m.wikipedia.org/wiki/Web_developer), and [game developer](https://en.m.wikipedia.org/wiki/Video_game_developer).
-
-I'm still fairly new and trying to learn wherever i can. in my free time, i love to watch movies and learn new stuff everyday. my favorite food is [Indomie](https://en.m.wikipedia.org/wiki/Indomie)/Ramen noodles, i can eat anything as long as it isn't too sweet or too salty...
-
-I also have a broad taste of music, but i pretty much like [shoegaze](https://en.m.wikipedia.org/wiki/Shoegaze) and [indie rock music](https://en.m.wikipedia.org/wiki/Indie_Rock) in particular.
-
-Currently, i'm pursuing a Bachelor's degree in Informatics Engineering at [University of Riau](https://en.wikipedia.org/wiki/University_of_Riau)
-
-At the moment, i have knowledge on many programming languages such as :
+I'm an aspiring software engineer, web developer, and game developer.
+I’m still relatively new to many things and always eager to learn whenever possible. In my spare time, I enjoy watching movies and picking up new knowledge every day. When it comes to food, I’m pretty open-minded. I’ll eat almost anything as long as it’s not overly sweet or salty.
+My music taste is quite varied, but I’m particularly drawn to indie music, with an occasional touch of rock.
+Right now, I’m working toward a Bachelor’s degree in Informatics Engineering at the Universitas Riau.
+At the moment, I have knowledge of many programming languages such as :
 - Python
 - JavaScript/TypeScript
 - HTML
@@ -16,18 +11,17 @@ At the moment, i have knowledge on many programming languages such as :
 - GDScript
 - C#
 
-I also have knowledge on Linux/Unix systems and basic networking.
-
-List of technologies i'm familiar with :
-- [MongoDB](https://www.mongodb.com/)
-- [Next.js](https://nextjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Prisma](https://www.prisma.io/)
-- [MySQL](https://www.mysql.com)
-- [PostgreSQL](https://www.postgresql.org/)
-- [discord.py](https://discordpy.readthedocs.io/en/stable/)
-- [discord.js](https://discord.js.org/)
-- [Godot Engine](https://godotengine.org/)
-- [Xendit](https://www.xendit.co/en/)
-- [Laravel](https://laravel.com/)
-- [Django](https://www.djangoproject.com/)
+I also have knowledge of Linux/Unix systems and basic networking.
+List of technologies I'm familiar with:
+- MongoDB
+- Next.js
+- Tailwind CSS
+- Prisma
+- MySQL
+- PostgreSQL
+- discord.py
+- discord.js
+- Godot Engine
+- Xendit
+- Laravel
+- Django
