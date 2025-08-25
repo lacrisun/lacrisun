@@ -10,6 +10,8 @@ At the moment, I have knowledge of many programming languages such as :
 - CSS
 - GDScript
 - C#
+- Lua
+- Java
 
 I also have knowledge of Linux/Unix systems and basic networking.
 List of technologies I'm familiar with:
